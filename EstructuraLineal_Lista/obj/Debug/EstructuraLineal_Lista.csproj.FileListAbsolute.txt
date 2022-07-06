@@ -1,0 +1,7 @@
+C:\Proyectos Crux\OtrosProyectos\EstructuraLineal_Lista\EstructuraLineal_Lista\bin\Debug\EstructuraLineal_Lista.exe.config
+C:\Proyectos Crux\OtrosProyectos\EstructuraLineal_Lista\EstructuraLineal_Lista\bin\Debug\EstructuraLineal_Lista.exe
+C:\Proyectos Crux\OtrosProyectos\EstructuraLineal_Lista\EstructuraLineal_Lista\bin\Debug\EstructuraLineal_Lista.pdb
+C:\Proyectos Crux\OtrosProyectos\EstructuraLineal_Lista\EstructuraLineal_Lista\obj\Debug\EstructuraLineal_Lista.csproj.AssemblyReference.cache
+C:\Proyectos Crux\OtrosProyectos\EstructuraLineal_Lista\EstructuraLineal_Lista\obj\Debug\EstructuraLineal_Lista.csproj.CoreCompileInputs.cache
+C:\Proyectos Crux\OtrosProyectos\EstructuraLineal_Lista\EstructuraLineal_Lista\obj\Debug\EstructuraLineal_Lista.exe
+C:\Proyectos Crux\OtrosProyectos\EstructuraLineal_Lista\EstructuraLineal_Lista\obj\Debug\EstructuraLineal_Lista.pdb
